@@ -5,7 +5,11 @@ Just to list some strengths and weaknesses of different AI Models as I am using 
 ### Strength:
 - Videos
 - Live Visual Conversations
-- Searching on internet for Websites / Sources / APIs
+
 
 ## Claude (Agent)
 - Best for big coding projects and implementing somewhat complicated features. (Web-Dev)
+
+
+## GPT
+- Searching on internet for Websites / Sources / APIs
